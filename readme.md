@@ -4,7 +4,7 @@
   
 • O servidor Web e a API RESTful foram implementadas em Node.js.
 
-• A aplicação de administração é i,a Web SPA (Single-Page Application). Para a programação do cliente desta aplicação foi utilizado: XMLHttpRequest; Fetch API; Axios; DOM; Vue.js. </p>
+• A aplicação de administração é uma Web SPA (Single-Page Application). Para a programação do cliente desta aplicação foi utilizado: XMLHttpRequest; Fetch API; Axios; DOM; Vue.js. </p>
 <h1>Objetivo</h1>
 <p>O objetivo deste projeto consiste em implementar uma plataforma Web com o Jogo da Sueca em
 multiplayer.</p>
