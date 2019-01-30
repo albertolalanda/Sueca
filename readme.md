@@ -8,7 +8,7 @@ complementada com as bibliotecas e packages apropriados.
 
 • A componente reativa da aplicação de frontend, que prossupõe o envio de mensagens em
 tempo real entre os vários intervenientes do jogo, foi implementada
-através de WebSockets. No servidor, os WebSockets foram implementados num
+através de WebSockets. No servidor, os WebSockets foram implementados com
 servidor Node.js;
 
 • Foi implementado com uma base de dados relacional MySQL;
